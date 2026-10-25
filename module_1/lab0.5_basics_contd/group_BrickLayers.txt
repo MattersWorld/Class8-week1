@@ -1,0 +1,3 @@
+Spotter = RosBailey , Darien
+Teamates = Darian, Dak, RosBailey, Bbasher
+Days + Times we meet = Monday 8pm, Saturday 5pm, Sunday 9am EST 
