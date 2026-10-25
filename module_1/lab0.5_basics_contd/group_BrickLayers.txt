@@ -1,3 +1,3 @@
 Spotter = RosBailey , Darien
-Teamates = Darian, Dak, RosBailey, Bbasher
+Teamates = Darian, Dak, RosBailey, Bbasher, T_Warrior
 Days + Times we meet = Monday 8pm, Saturday 5pm, Sunday 9am EST 
